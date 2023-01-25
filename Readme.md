@@ -8,3 +8,6 @@
 - Joseph Kettles
 - Maya Peretz
 - Zin Lin Htun
+
+## University 
+- `Edinburgh Napier University`
